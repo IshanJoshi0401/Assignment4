@@ -1,0 +1,12 @@
+#capital {
+    display: none;
+}
+.highlight-yellow {
+    background-color: yellow;
+}
+.highlight-green {
+    background-color: green;
+    color: white;
+}
+    
+  
